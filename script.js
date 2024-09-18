@@ -111,7 +111,8 @@ const departamentosCiudades =
       "GAMARRA",
       "PUEBLO BELLO",
       "SAN DIEGO",
-      "SAN MARTÍN"
+      "SAN MARTÍN",
+      "LA JAGUA DE IBIRICO"
     ],
     "CHOCÓ": [
       "QUIBDÓ",
@@ -177,7 +178,8 @@ const departamentosCiudades =
       "FONSECA",
       "VILLANUEVA",
       "LA JAGUA DEL PILAR",
-      "HATONUEVO"
+      "HATONUEVO",
+      "MINGUEO"
     ],
     "MAGDALENA": [
       "SANTA MARTA",
@@ -199,7 +201,8 @@ const departamentosCiudades =
       "SAN MARTÍN",
       "CUMARAL",
       "MESETAS",
-      "VISTAHERMOSA"
+      "VISTAHERMOSA",
+      "GRANADA"
     ],
     "NARIÑO": [
       "PASTO",
@@ -220,7 +223,8 @@ const departamentosCiudades =
       "VILLA DEL ROSARIO",
       "SAN CAYETANO",
       "LA PLAYA",
-      "EL ZULIA"
+      "EL ZULIA",
+      "TIBU"
     ],
     "PUTUMAYO": [
       "MOCOA",
@@ -229,7 +233,8 @@ const departamentosCiudades =
       "VILLAGARZÓN",
       "PUERTO CAICEDO",
       "LEGUÍZAMO",
-      "SANTIAGO"
+      "SANTIAGO",
+      "LA HORMIGA"
     ],
     "QUINDÍO": [
       "ARMENIA",
@@ -301,8 +306,6 @@ const departamentosCiudades =
       "SANTA ROSALÍA"
     ]
   }
-  
-
 
 
 document.addEventListener('DOMContentLoaded', function () {
